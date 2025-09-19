@@ -2,7 +2,7 @@
 
 
 
-This will be the homepage of your website.
+
 
 
 # Haran J
