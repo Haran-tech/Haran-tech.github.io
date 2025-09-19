@@ -40,7 +40,5 @@ This will be the homepage of your website.
 ## About Me
 I am a dedicated **law student** with hands-on experience in legal research and court observations.  
 I aspire to contribute to the field of law through academic excellence, practical exposure, and social service.
-```
 
----
 
