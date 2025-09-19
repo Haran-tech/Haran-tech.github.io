@@ -47,22 +47,3 @@ I aspire to contribute to the field of law through academic excellence, practica
 
 ---
 
-### 2. `_config.yml`
-
-This file configures your GitHub Pages site (using Jekyll).
-
-```yaml
-title: "Haran J - Resume"
-description: "3rd Year Law Student | BA LLB (Hons) | Aspiring Legal Professional"
-theme: minima
-```
-
----
-
-
-
-
-
----
-
-Do you want me to also create a **ready-to-upload zip** of these files for you, so you can just push them to GitHub directly?
