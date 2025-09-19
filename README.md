@@ -1,13 +1,10 @@
 # Haran
-Got it ✅ I’ll help you turn your resume into a simple GitHub Pages website using **Markdown files** (`index.md` and supporting files). Here’s a clean starting point for your repo:
 
----
 
-### 1. `index.md`
 
 This will be the homepage of your website.
 
-```markdown
+
 # Haran J
 *3rd Year Law Student*
 
